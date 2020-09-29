@@ -1,0 +1,7 @@
+.issue {
+  border: red 1px solid;
+}
+
+.issueContainer {
+  border: 1px green solid;
+}
